@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      body{
+padding: 20px;
+}
+.header{
+background-color: rgb(0,22,110);
+font-family:Verdana,Geneva,Tahoma,sans-serif;
+font-weight:100;
+text-align:center;
+padding:10px;
+color: white;
+margin-bottom: 10px;
+}
+.content{
+background: #9af7ff;
+font-family:'Lucida Sans','Lucida Sans Rgular','Lucida Sans Intense';
+padding:10px;
+margin-bottom: 10px;
+}
+.footer{
+background: #184282;
+color: white;
+padding:10px;
+}
+.bold{
+text-transform: uppercase;
+font-weight: 900;
+color: yellow;
+}
+
+    </style>
+  </head>
+  <body>
+<div class="header">
+<h1>Cats<span class="bold"></h1>
+</div>
+<div class="content">
+   <p>The cat (Felis catus), commonly referred to as the domestic cat or house cat, is the only domesticated species in the family Felidae. Recent advances in archaeology and genetics have shown that the domestication of the cat occurred in the Near East around 7500 BC. It is commonly kept as a house pet and farm cat, but also ranges freely as a feral cat avoiding human contact. It is valued by humans for companionship and its ability to kill vermin. Because of its retractable claws it is adapted to killing small prey like mice and rats. It has a strong flexible body, quick reflexes, sharp teeth, and its night vision and sense of smell are well developed. It is a social species, but a solitary hunter and a crepuscular predator. Cat communication includes vocalizations like meowing, purring, trilling, hissing, growling, and grunting as well as cat body language. It can hear sounds too faint or too high in frequency for human ears, such as those made by small mammals. It also secretes and perceives pheromones.</p>
+<h2>Cat Evolution</h2>
+<p>The domestic cat is a member of the Felidae, a family that had a common ancestor about 10 to 15 million years ago.[24] The evolutionary radiation of the Felidae began in Asia during the Miocene around 8.38 to 14.45 million years ago.[25] Analysis of mitochondrial DNA of all Felidae species indicates a radiation at 6.46 to 16.76 million years ago.[26] The genus Felis genetically diverged from other Felidae around 6 to 7 million years ago.[25] Results of phylogenetic research shows that the wild members of this genus evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection.[27] The domestic cat and its closest wild ancestor are diploid and both possess 38 chromosomes[28] and roughly 20,000 genes.[29]</p>
+</div>
+<div class="footer">
+<p>The scientific name Felis catus was proposed by Carl Linnaeus in 1758 for a domestic cat.[1][2] Felis catus domesticus was proposed by Johann Christian Polycarp Erxleben in 1777.[3] Felis daemon proposed by Konstantin Satunin in 1904 was a black cat from the Transcaucasus, later identified as a domestic cat.</p>
+<p>In 2003, the International Commission on Zoological Nomenclature ruled that the domestic cat is a distinct species, namely Felis catus.[19][20] In 2007, it was considered a subspecies, F. silvestris catus, of the European wildcat (F. silvestris) following results of phylogenetic research.[21][22] In 2017, the IUCN Cat Classification Taskforce followed the recommendation of the ICZN in regarding the domestic cat as a distinct species, Felis catus.</p>
+</div>
+</body>
+</html>
