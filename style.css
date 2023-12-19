@@ -1,0 +1,16 @@
+body{
+  background-color: LightPurple;
+}
+
+h1 {
+  text-align: center;
+}
+
+.head1 {
+  background-color: aqua;
+}
+
+#head2{
+  background-color: cyan;
+  color: white;
+}
